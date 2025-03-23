@@ -15,6 +15,7 @@ jsonschema-specifications==2024.10.1
 MarkupSafe==3.0.2
 narwhals==1.29.0
 packaging==24.2
+pip==25.0.1
 pandas==2.2.3
 pillow==9.3.0
 python==3.11
