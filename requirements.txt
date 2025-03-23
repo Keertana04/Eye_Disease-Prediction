@@ -35,7 +35,7 @@ typing_extensions==4.12.2
 tzdata==2025.1
 urllib3==2.3.0
 watchdog==6.0.0
-streamlit==1.30.0
+streamlit==1.43.0
 numpy==1.26.4
 tensorflow==2.15.0
 pandas==2.2.1
